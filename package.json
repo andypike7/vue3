@@ -54,5 +54,21 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "prettier": {
+    "printWidth": 100,
+    "tabWidth": 2,
+    "useTabsuseTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "quoteProps": "as-needed",
+    "jsxSingleQuote": false,
+    "trailingComma": "all",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "arrowParens": "always",
+    "vueIndentScriptAndStyle": false,
+    "endOfLine": "auto",
+    "embeddedLanguageFormatting": "auto"
+  }
 }
