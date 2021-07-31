@@ -6,7 +6,10 @@
       <v-spacer></v-spacer>
       <v-btn text>Link One</v-btn>
       <v-btn text>Link Two</v-btn>
-      <v-btn text>Link Three</v-btn>
+      <v-btn text>
+        Log out
+        <v-icon class="ml-2">mdi-logout</v-icon>
+      </v-btn>
     </v-app-bar>
     <v-main>
       <v-container fluid>
